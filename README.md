@@ -1,5 +1,5 @@
 # Integrantes-do-grupo-da-Aula-de-M-tricas
-Alan
-Bruno
-Cauã
+Alan,
+Bruno,
+Cauã,
 Felipe Nobrega
