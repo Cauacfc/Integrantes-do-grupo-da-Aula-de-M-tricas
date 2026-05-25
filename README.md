@@ -1,4 +1,4 @@
-# Integrantes-do-grupo-da-Aula-de-M-tricas
+# Integrantes do grupo da Aula de Metricas
 Alan,
 Bruno,
 Cauã,
