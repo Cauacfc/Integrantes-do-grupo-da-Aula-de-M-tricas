@@ -1,4 +1,4 @@
-Allan Martoreli
-Bruno Miranda
-Cauã Carvalho
+Allan Martoreli,
+Bruno Miranda,
+Cauã Carvalho,
 Felipe Nobrega
